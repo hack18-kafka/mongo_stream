@@ -1,0 +1,17 @@
+{
+  "name": "mongo_push",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.6",
+    "stream": "0.0.2",
+    "stream-json": "^1.1.1",
+    "stream-to-mongo-db": "^1.5.0"
+  }
+}

@@ -1,0 +1,184 @@
+[
+    {
+      "flight": {
+        "flightCompany": "LX",
+        "flightNumber": 697,
+        "flightDeparture": "Paris",
+        "flightDestination": "New York",
+        "flightDate": "2018-09-26T00:57:00Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 149,
+      "flightCompanyHelpLink": "https://www.swiss.com/ca/en/book/flight-information/arrivals-and-departures.html"
+    },
+    {
+      "flight": {
+        "flightCompany": "AF",
+        "flightNumber": 114,
+        "flightDeparture": "München",
+        "flightDestination": "Tokyo",
+        "flightDate": "2018-09-26T07:03:56Z"
+      },
+      "flightStatus": "cancelled"
+    },
+    {
+      "flight": {
+        "flightCompany": "BA",
+        "flightNumber": 979,
+        "flightDeparture": "Zürich",
+        "flightDestination": "London",
+        "flightDate": "2018-09-26T13:38:58Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 112
+    },
+    {
+      "flight": {
+        "flightCompany": "LX",
+        "flightNumber": 626,
+        "flightDeparture": "Zürich",
+        "flightDestination": "New York",
+        "flightDate": "2018-09-26T06:29:16Z"
+      },
+      "flightStatus": "cancelled"
+    },
+    {
+      "flight": {
+        "flightCompany": "BA",
+        "flightNumber": 753,
+        "flightDeparture": "Paris",
+        "flightDestination": "St. Petersburg",
+        "flightDate": "2018-09-26T05:37:22Z"
+      },
+      "flightStatus": "cancelled"
+    },
+    {
+      "flight": {
+        "flightCompany": "BA",
+        "flightNumber": 334,
+        "flightDeparture": "München",
+        "flightDestination": "Sidney",
+        "flightDate": "2018-09-26T08:03:42Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 321
+    },
+    {
+      "flight": {
+        "flightCompany": "AF",
+        "flightNumber": 195,
+        "flightDeparture": "München",
+        "flightDestination": "San Francisco",
+        "flightDate": "2018-09-26T03:21:28Z"
+      },
+      "flightStatus": "cancelled"
+    },
+    {
+      "flight": {
+        "flightCompany": "LX",
+        "flightNumber": 940,
+        "flightDeparture": "München",
+        "flightDestination": "New York",
+        "flightDate": "2018-09-26T12:57:23Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 250
+    },
+    {
+      "flight": {
+        "flightCompany": "AF",
+        "flightNumber": 493,
+        "flightDeparture": "München",
+        "flightDestination": "San Francisco",
+        "flightDate": "2018-09-26T12:03:40Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 75
+    },
+    {
+      "flight": {
+        "flightCompany": "BA",
+        "flightNumber": 512,
+        "flightDeparture": "Paris",
+        "flightDestination": "London",
+        "flightDate": "2018-09-26T11:20:27Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 548,
+      "flightCompanyHelpLink": "https://www.britishairways.com/travel/flightstatus/public/en_us/search/"
+    },
+    {
+      "flight": {
+        "flightCompany": "BA",
+        "flightNumber": 335,
+        "flightDeparture": "Zürich",
+        "flightDestination": "London",
+        "flightDate": "2018-09-26T16:28:50Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 194
+    },
+    {
+      "flight": {
+        "flightCompany": "BA",
+        "flightNumber": 184,
+        "flightDeparture": "München",
+        "flightDestination": "St. Petersburg",
+        "flightDate": "2018-09-26T09:13:33Z"
+      },
+      "flightStatus": "cancelled"
+    },
+    {
+      "flight": {
+        "flightCompany": "BA",
+        "flightNumber": 397,
+        "flightDeparture": "München",
+        "flightDestination": "San Francisco",
+        "flightDate": "2018-09-26T04:29:08Z"
+      },
+      "flightStatus": "cancelled"
+    },
+    {
+      "flight": {
+        "flightCompany": "BA",
+        "flightNumber": 752,
+        "flightDeparture": "Paris",
+        "flightDestination": "New York",
+        "flightDate": "2018-09-26T21:28:17Z"
+      },
+      "flightStatus": "cancelled"
+    },
+    {
+      "flight": {
+        "flightCompany": "AF",
+        "flightNumber": 431,
+        "flightDeparture": "Zürich",
+        "flightDestination": "Sidney",
+        "flightDate": "2018-09-26T01:53:22Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 537
+    },
+    {
+      "flight": {
+        "flightCompany": "AF",
+        "flightNumber": 785,
+        "flightDeparture": "München",
+        "flightDestination": "St. Petersburg",
+        "flightDate": "2018-09-26T08:23:39Z"
+      },
+      "flightStatus": "delayed",
+      "flightDelay": 244
+    },
+    {
+      "flight": {
+        "flightCompany": "LX",
+        "flightNumber": 493,
+        "flightDeparture": "Zürich",
+        "flightDestination": "Tokyo",
+        "flightDate": "2018-09-26T11:27:03Z"
+      },
+      "flightStatus": "cancelled",
+      "flightCompanyHelpLink": "https://www.swiss.com/ca/en/book/flight-information/arrivals-and-departures.html"
+    }
+  ]
